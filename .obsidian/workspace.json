@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PaperWithCode/1-ActionOOD/筆記.md",
-                "mode": "preview",
+                "file": "PaperWithCode/2-MonoPIC/中文全文.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PaperWithCode/1-ActionOOD/筆記.md",
+                "file": "PaperWithCode/2-MonoPIC/中文全文.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PaperWithCode/1-ActionOOD/筆記.md",
+                "file": "PaperWithCode/2-MonoPIC/中文全文.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,12 +125,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PaperWithCode/1-ActionOOD/筆記.md"
+                "file": "PaperWithCode/2-MonoPIC/中文全文.md"
               }
+            }
+          },
+          {
+            "id": "c6206a61a8d162b6",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -150,12 +158,19 @@
   },
   "active": "9a2440dd8ac1eec2",
   "lastOpenFiles": [
+    "PaperWithCode/2-MonoPIC/Figure4.png",
+    "PaperWithCode/2-MonoPIC/Table1.png",
+    "PaperWithCode/2-MonoPIC/Figure3.png",
+    "PaperWithCode/2-MonoPIC/Figure2.png",
+    "PaperWithCode/2-MonoPIC/Figure1.png",
     "PaperWithCode/1-ActionOOD/中文全文.md",
+    "PaperWithCode/2-MonoPIC/中文全文.md",
+    "PaperWithCode/2-MonoPIC",
+    "PaperWithCode/1-ActionOOD/筆記.md",
     "標籤系統.md",
     "Excalidraw/Drawing 2024-09-17 11.16.22.excalidraw.md",
     "Excalidraw",
     "PaperWithCode/1-ActionOOD/Algorithm.PNG",
-    "PaperWithCode/1-ActionOOD/筆記.md",
     "PaperWithCode/1-ActionOOD/Figure3.png",
     "PaperWithCode/1-ActionOOD/Figure1.png",
     "PaperWithCode/1-ActionOOD/標註.md",
@@ -166,10 +181,6 @@
     "2024-09-14.md",
     "PaperWithCode/1-ActionOOD/Figure5.png",
     "PaperWithCode/1-ActionOOD/Table5.png",
-    "PaperWithCode/1-ActionOOD/Table4.png",
-    "PaperWithCode/1-ActionOOD/Table3.png",
-    "PaperWithCode/1-ActionOOD/Table2.png",
-    "PaperWithCode/1-ActionOOD/Table1.png",
     "PaperWithCode/1-ActionOOD",
     "Welcome.md",
     "PaperWithCode"
