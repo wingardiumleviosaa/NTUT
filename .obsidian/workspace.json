@@ -8,13 +8,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9a2440dd8ac1eec2",
+            "id": "aeae430474f19de3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "PaperWithCode/3-SkeletonT-GCN/中文全文.md",
-                "mode": "preview",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9a2440dd8ac1eec2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "標籤系統.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -48,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#資料集/ntu60",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 273.5,
+    "collapsed": true
   },
   "right": {
     "id": "d02335ef4544c6b0",
@@ -142,37 +155,36 @@
       }
     ],
     "direction": "horizontal",
-    "width": 414.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c6206a61a8d162b6",
+  "active": "aeae430474f19de3",
   "lastOpenFiles": [
-    "PaperWithCode/3-SkeletonT-GCN/Figure3.png",
-    "PaperWithCode/3-SkeletonT-GCN/Figure2.png",
-    "PaperWithCode/3-SkeletonT-GCN/Figure1.png",
     "標籤系統.md",
     "PaperWithCode/3-SkeletonT-GCN/中文全文.md",
-    "PaperWithCode/3-SkeletonT-GCN",
+    "PaperWithCode/3-SkeletonT-GCN/Table8,9,10.png",
+    "PaperWithCode/3-SkeletonT-GCN/Table7.png",
+    "PaperWithCode/3-SkeletonT-GCN/Table4,5,6.png",
+    "PaperWithCode/3-SkeletonT-GCN/Figure8.png",
+    "PaperWithCode/3-SkeletonT-GCN/Figure7.png",
+    "PaperWithCode/3-SkeletonT-GCN/Figure6.png",
+    "PaperWithCode/3-SkeletonT-GCN/Table1,2,3.png",
+    "PaperWithCode/3-SkeletonT-GCN/Figure4,5.png",
     "PaperWithCode/2-MonoPIC/中文全文.md",
-    "PaperWithCode/2-MonoPIC/Table3.png",
-    "PaperWithCode/2-MonoPIC/Figure13.png",
-    "PaperWithCode/2-MonoPIC/Table2.png",
-    "PaperWithCode/2-MonoPIC/Figure12.png",
-    "PaperWithCode/2-MonoPIC/Figure11.png",
-    "PaperWithCode/2-MonoPIC/Figure10.png",
-    "PaperWithCode/2-MonoPIC/Figure9.png",
-    "PaperWithCode/2-MonoPIC/Figure8.png",
+    "PaperWithCode/3-SkeletonT-GCN/Figure2.png",
+    "PaperWithCode/3-SkeletonT-GCN/Figure3.png",
+    "PaperWithCode/3-SkeletonT-GCN",
     "PaperWithCode/1-ActionOOD/中文全文.md",
     "PaperWithCode/2-MonoPIC",
     "PaperWithCode/1-ActionOOD/筆記.md",
