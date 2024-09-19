@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PaperWithCode/2-MonoPIC/中文全文.md",
-                "mode": "source",
+                "file": "PaperWithCode/3-SkeletonT-GCN/中文全文.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#資料集/ntu60",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5
+    "width": 200
   },
   "right": {
     "id": "d02335ef4544c6b0",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PaperWithCode/2-MonoPIC/中文全文.md",
+                "file": "PaperWithCode/3-SkeletonT-GCN/中文全文.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PaperWithCode/2-MonoPIC/中文全文.md",
+                "file": "PaperWithCode/3-SkeletonT-GCN/中文全文.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PaperWithCode/2-MonoPIC/中文全文.md"
+                "file": "PaperWithCode/3-SkeletonT-GCN/中文全文.md"
               }
             }
           },
@@ -146,41 +146,43 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:開啟快速切換": false,
-      "graph:查看關聯圖": false,
-      "canvas:建立新畫布": false,
-      "daily-notes:開啟今天的每日筆記": false,
-      "templates:插入模板": false,
-      "command-palette:開啟命令面板": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9a2440dd8ac1eec2",
+  "active": "c6206a61a8d162b6",
   "lastOpenFiles": [
-    "PaperWithCode/2-MonoPIC/Figure4.png",
-    "PaperWithCode/2-MonoPIC/Table1.png",
-    "PaperWithCode/2-MonoPIC/Figure3.png",
-    "PaperWithCode/2-MonoPIC/Figure2.png",
-    "PaperWithCode/2-MonoPIC/Figure1.png",
-    "PaperWithCode/1-ActionOOD/中文全文.md",
+    "PaperWithCode/3-SkeletonT-GCN/Figure3.png",
+    "PaperWithCode/3-SkeletonT-GCN/Figure2.png",
+    "PaperWithCode/3-SkeletonT-GCN/Figure1.png",
+    "標籤系統.md",
+    "PaperWithCode/3-SkeletonT-GCN/中文全文.md",
+    "PaperWithCode/3-SkeletonT-GCN",
     "PaperWithCode/2-MonoPIC/中文全文.md",
+    "PaperWithCode/2-MonoPIC/Table3.png",
+    "PaperWithCode/2-MonoPIC/Figure13.png",
+    "PaperWithCode/2-MonoPIC/Table2.png",
+    "PaperWithCode/2-MonoPIC/Figure12.png",
+    "PaperWithCode/2-MonoPIC/Figure11.png",
+    "PaperWithCode/2-MonoPIC/Figure10.png",
+    "PaperWithCode/2-MonoPIC/Figure9.png",
+    "PaperWithCode/2-MonoPIC/Figure8.png",
+    "PaperWithCode/1-ActionOOD/中文全文.md",
     "PaperWithCode/2-MonoPIC",
     "PaperWithCode/1-ActionOOD/筆記.md",
-    "標籤系統.md",
     "Excalidraw/Drawing 2024-09-17 11.16.22.excalidraw.md",
     "Excalidraw",
-    "PaperWithCode/1-ActionOOD/Algorithm.PNG",
-    "PaperWithCode/1-ActionOOD/Figure3.png",
-    "PaperWithCode/1-ActionOOD/Figure1.png",
     "PaperWithCode/1-ActionOOD/標註.md",
-    "PaperWithCode/1-ActionOOD/attachments/3FMUFFZ3.png",
     "PaperWithCode/1-ActionOOD/attachments",
     "未命名.canvas",
     "未命名 1.md",
     "2024-09-14.md",
-    "PaperWithCode/1-ActionOOD/Figure5.png",
-    "PaperWithCode/1-ActionOOD/Table5.png",
     "PaperWithCode/1-ActionOOD",
     "Welcome.md",
     "PaperWithCode"
