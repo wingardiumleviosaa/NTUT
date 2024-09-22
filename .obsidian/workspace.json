@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PaperWithCode/1-ActionOOD/中文全文.md",
-                "mode": "source",
+                "file": "PaperWithCode/2-MonoPIC/中文全文.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5
+    "width": 201.5
   },
   "right": {
     "id": "d02335ef4544c6b0",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PaperWithCode/1-ActionOOD/中文全文.md",
+                "file": "PaperWithCode/2-MonoPIC/中文全文.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PaperWithCode/1-ActionOOD/中文全文.md",
+                "file": "PaperWithCode/2-MonoPIC/中文全文.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PaperWithCode/1-ActionOOD/中文全文.md"
+                "file": "PaperWithCode/2-MonoPIC/中文全文.md"
               }
             }
           },
@@ -155,7 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 420.5
+    "width": 265.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,13 +169,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c6206a61a8d162b6",
+  "active": "035a98a86a5e9925",
   "lastOpenFiles": [
-    "PaperWithCode/2-MonoPIC/中文全文.md",
-    "標籤系統.md",
+    "PaperWithCode/1-ActionOOD/筆記.md",
+    "PaperWithCode/3-SkeletonT-GCN/筆記.md",
     "PaperWithCode/1-ActionOOD/中文全文.md",
-    "PaperWithCode/3-SkeletonT-GCN/筆記.md",
-    "PaperWithCode/3-SkeletonT-GCN/筆記.md",
+    "標籤系統.md",
+    "PaperWithCode/2-MonoPIC/中文全文.md",
     "PaperWithCode/3-SkeletonT-GCN/中文全文.md",
     "PaperWithCode/3-SkeletonT-GCN/Table8,9,10.png",
     "PaperWithCode/3-SkeletonT-GCN/Table7.png",
@@ -189,7 +189,6 @@
     "PaperWithCode/3-SkeletonT-GCN/Figure3.png",
     "PaperWithCode/3-SkeletonT-GCN",
     "PaperWithCode/2-MonoPIC",
-    "PaperWithCode/1-ActionOOD/筆記.md",
     "Excalidraw/Drawing 2024-09-17 11.16.22.excalidraw.md",
     "Excalidraw",
     "PaperWithCode/1-ActionOOD/標註.md",
