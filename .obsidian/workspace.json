@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "6d606ff7e4883962",
+        "id": "e7bab29e93419f04",
         "type": "tabs",
         "children": [
           {
-            "id": "9a2440dd8ac1eec2",
+            "id": "d1ba59659ec20bc4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "標籤系統.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "035a98a86a5e9925",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PaperWithCode/2-MonoPIC/中文全文.md",
+                "file": "PaperWithCode/4-PCM3/4-PCM3中文全文.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 201.5
+    "width": 266.5
   },
   "right": {
     "id": "d02335ef4544c6b0",
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PaperWithCode/2-MonoPIC/中文全文.md",
+                "file": "PaperWithCode/4-PCM3/4-PCM3中文全文.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PaperWithCode/2-MonoPIC/中文全文.md",
+                "file": "PaperWithCode/4-PCM3/4-PCM3中文全文.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PaperWithCode/2-MonoPIC/中文全文.md"
+                "file": "PaperWithCode/4-PCM3/4-PCM3中文全文.md"
               }
             }
           },
@@ -169,14 +156,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "035a98a86a5e9925",
+  "active": "c6206a61a8d162b6",
   "lastOpenFiles": [
-    "PaperWithCode/1-ActionOOD/筆記.md",
-    "PaperWithCode/3-SkeletonT-GCN/筆記.md",
-    "PaperWithCode/1-ActionOOD/中文全文.md",
+    "PaperWithCode/1-ActionOOD/1-ActionOOD中文全文.md",
+    "PaperWithCode/1-ActionOOD/1-筆記.md",
+    "PaperWithCode/4-PCM3/4-PCM3中文全文.md",
+    "PaperWithCode/4-PCM3/Figure1.png",
+    "PaperWithCode/3-SkeletonT-GCN/3-筆記.md",
+    "PaperWithCode/3-SkeletonT-GCN/3-SkeletonT-GCN中文全文.md",
+    "PaperWithCode/2-MonoPIC/2-MonoPIC中文全文.md",
     "標籤系統.md",
-    "PaperWithCode/2-MonoPIC/中文全文.md",
-    "PaperWithCode/3-SkeletonT-GCN/中文全文.md",
+    "PaperWithCode/4-PCM3",
+    "未命名",
     "PaperWithCode/3-SkeletonT-GCN/Table8,9,10.png",
     "PaperWithCode/3-SkeletonT-GCN/Table7.png",
     "PaperWithCode/3-SkeletonT-GCN/Table4,5,6.png",
@@ -186,7 +177,6 @@
     "PaperWithCode/3-SkeletonT-GCN/Table1,2,3.png",
     "PaperWithCode/3-SkeletonT-GCN/Figure4,5.png",
     "PaperWithCode/3-SkeletonT-GCN/Figure2.png",
-    "PaperWithCode/3-SkeletonT-GCN/Figure3.png",
     "PaperWithCode/3-SkeletonT-GCN",
     "PaperWithCode/2-MonoPIC",
     "Excalidraw/Drawing 2024-09-17 11.16.22.excalidraw.md",
