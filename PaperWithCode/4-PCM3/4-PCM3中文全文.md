@@ -223,7 +223,7 @@ PKUMMD 是一個大規模數據集，專注於人類行為的多模態 3D 理解
 ![](Table5.png)
 表 5：重疊率為 0.5 的 PKUMMD 第 I 部分 xsub 基準的動作偵測結果。
 
-![](Table6.png)
+![](PaperWithCode/4-PCM3/Table6.png)
 表 6：運動預測任務的結果。
 
 ### 4.4 **消融研究**
