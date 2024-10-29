@@ -1,4 +1,4 @@
- #資料集/ntu60 #資料集/ntu120  #資料集/Kinetics400 #骨架偵測/人體邊框偵測/ResNet50 #骨架偵測/model/deep-high-resolution-net   #動作識別/演算法/GCN  #運行框架/pyskl 
+ #資料集/ntu60 #資料集/ntu120  #資料集/Kinetics400 #骨架偵測/人體邊框偵測/ResNet50 #骨架偵測/model/deep-high-resolution-net   #動作識別/演算法/GCN  #消融實驗/ntu60  #運行框架/pyskl 
 
 ## 摘要
 
