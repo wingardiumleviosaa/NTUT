@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "09011f0c41a0ef22",
+        "id": "269101ff8ad87cba",
         "type": "tabs",
         "children": [
           {
-            "id": "dbfa7745f6a7b406",
+            "id": "a11b780f629c7ec8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PaperWithCode/1-ActionOOD/1-ActionOOD中文全文.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "1-ActionOOD中文全文"
+              "title": "New tab"
             }
           }
         ]
@@ -52,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#動作識別/自監督學習/Masking",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5024719238281
+    "width": 200
   },
   "right": {
     "id": "d02335ef4544c6b0",
@@ -169,33 +165,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c6206a61a8d162b6",
+  "active": "a11b780f629c7ec8",
   "lastOpenFiles": [
-    "PaperWithCode/1-ActionOOD/1-筆記.md",
-    "PaperWithCode/2-MonoPIC/2-MonoPIC中文全文.md",
+    "標籤系統.md",
+    "PaperWithCode/5-PSTL/5-中文全文.md",
+    "PaperWithCode/5-PSTL/5-筆記.md",
+    "PaperWithCode/5-PSTL/Figure1.png",
+    "PaperWithCode/5-PSTL/Figure2.png",
     "PaperWithCode/3-SkeletonT-GCN/3-SkeletonT-GCN中文全文.md",
     "PaperWithCode/4-PCM3/4-PCM3中文全文.md",
-    "PaperWithCode/4-PCM3/4-筆記.md",
-    "PaperWithCode/5-PSTL/5-中文全文.md",
-    "PaperWithCode/7-BRL/7-中文全文.md",
-    "PaperWithCode/8-HumanSD/8-中文全文.md",
-    "PaperWithCode/14-B2C/14-中文全文.md",
-    "PaperWithCode/15-LSHR_LSHT/15-中文全文.md",
+    "PaperWithCode/10-pyskl/10-中文全文.md",
+    "PaperWithCode/3-SkeletonT-GCN/3-筆記.md",
+    "PaperWithCode/2-MonoPIC/2-MonoPIC中文全文.md",
+    "PaperWithCode/1-ActionOOD/1-ActionOOD中文全文.md",
+    "PaperWithCode/1-ActionOOD/1-筆記.md",
+    "PaperWithCode/19-ISTA-Net/19-中文全文.md",
     "PaperWithCode/16-Ske2Grid/16-中文全文.md",
+    "PaperWithCode/15-LSHR_LSHT/15-中文全文.md",
+    "PaperWithCode/9-quaternion-extraction/9-中文全文.md",
+    "PaperWithCode/8-HumanSD/8-中文全文.md",
+    "PaperWithCode/7-BRL/7-中文全文.md",
+    "PaperWithCode/2-MonoPIC/2-筆記.md",
+    "PaperWithCode/4-PCM3/4-筆記.md",
+    "PaperWithCode/14-B2C/14-中文全文.md",
     "PaperWithCode/17-MAMP/17-中文全文.md",
     "PaperWithCode/18-SMIE/18-中文全文.md",
-    "PaperWithCode/19-ISTA-Net/19-中文全文.md",
-    "PaperWithCode/10-pyskl/10-中文全文.md",
-    "標籤系統.md",
-    "PaperWithCode/9-quaternion-extraction/9-中文全文.md",
     "PaperWithCode/11-Skeleton-Based-Fall-Detection/11-中文全文.md",
     "PaperWithCode/13-VirtualMaker/13-中文全文.md",
     "Untitled.md",
-    "PaperWithCode/1-ActionOOD/1-ActionOOD中文全文.md",
     "PaperWithCode/16-Ske2Grid/16-筆記.md",
     "PaperWithCode/17-MAMP/17-筆記.md",
-    "PaperWithCode/18-SMIE/18-筆記.md",
-    "PaperWithCode/19-ISTA-Net/19-筆記.md",
     "PaperWithCode/19-ISTA-Net/Figure1.png",
     "PaperWithCode/19-ISTA-Net/Figure2.png",
     "PaperWithCode/19-ISTA-Net/Algorithm1.png",
@@ -204,8 +203,6 @@
     "PaperWithCode/19-ISTA-Net/Table2.png",
     "PaperWithCode/19-ISTA-Net/Table3.png",
     "PaperWithCode/19-ISTA-Net/Table4.png",
-    "PaperWithCode/19-ISTA-Net/Figure4.png",
-    "PaperWithCode/19-ISTA-Net/Table5.png",
     "PaperWithCode/19-ISTA-Net",
     "PaperWithCode/18-SMIE",
     "PaperWithCode/17-MAMP",
@@ -215,7 +212,6 @@
     "PaperWithCode/13-VirtualMaker/Untitled",
     "PaperWithCode/13-VirtualMaker",
     "PaperWithCode/11-Skeleton-Based-Fall-Detection",
-    "PaperWithCode/7-BRL/7-筆記.md",
     "PaperWithCode/10-pyskl",
     "未命名.canvas"
   ]
